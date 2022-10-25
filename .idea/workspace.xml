@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8652209-ad66-456d-9ed8-a7175e1da9b8" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/projects.iml" afterDir="false" />
+    <list default="true" id="b8652209-ad66-456d-9ed8-a7175e1da9b8" name="변경" comment="Flask project">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/.idea/mars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mars/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/.idea/prac.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/suk92/OneDrive/바탕 화면/sparta/projects",
+    "last_opened_file_path": "C:/Users/suk92/OneDrive/바탕 화면/sparta/projects/mars",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,8 +46,16 @@
       <option name="presentableId" value="Default" />
       <updated>1666574396911</updated>
       <workItem from="1666574398230" duration="111000" />
-      <workItem from="1666574529545" duration="943000" />
+      <workItem from="1666574529545" duration="1076000" />
     </task>
+    <task id="LOCAL-00001" summary="Flask project">
+      <created>1666578664177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666578664177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Flask project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flask project" />
   </component>
 </project>
